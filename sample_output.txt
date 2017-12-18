@@ -1,0 +1,31 @@
+Count 1
+8	Major Clanger
+5	Soup Dragon
+3	The Cloud
+2	Froglet
+1	Iron Chicken
+
+Candidate Iron Chicken has the smallest number of votes and is eliminated from the count
+
+Count 2
+8	Major Clanger
+5	Soup Dragon
+4	The Cloud
+2	Froglet
+
+Candidate Froglet has the smallest number of votes and is eliminated from the count
+
+Count 3
+9	Major Clanger
+6	Soup Dragon
+4	The Cloud
+
+Candidate The Cloud has the smallest number of votes and is eliminated from the count
+
+Count 4
+11	Major Clanger
+8	Soup Dragon
+
+
+Candidate Major Clanger is elected
+0 papers excluded as informal
